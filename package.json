@@ -27,6 +27,7 @@
         "prepare": "yarn run build"
     },
     "dependencies": {
+        "public-assets": "https://github.com/WowFinder/public-assets.git",
         "ts-utils": "https://github.com/WowFinder/ts-utils.git"
     },
     "devDependencies": {

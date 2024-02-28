@@ -4502,6 +4502,7 @@ __metadata:
     jest: "npm:^29.7.0"
     npm-run-all: "npm:^4.1.5"
     prettier: "npm:^3.2.5"
+    public-assets: "https://github.com/WowFinder/public-assets.git"
     rimraf: "npm:^5.0.5"
     ts-jest: "npm:^29.1.2"
     ts-utils: "https://github.com/WowFinder/ts-utils.git"
@@ -4975,6 +4976,13 @@ __metadata:
     kleur: "npm:^3.0.3"
     sisteransi: "npm:^1.0.5"
   checksum: 10c0/16f1ac2977b19fe2cf53f8411cc98db7a3c8b115c479b2ca5c82b5527cd937aa405fa04f9a5960abeb9daef53191b53b4d13e35c1f5d50e8718c76917c5f1ea4
+  languageName: node
+  linkType: hard
+
+"public-assets@https://github.com/WowFinder/public-assets.git":
+  version: 0.0.1
+  resolution: "public-assets@https://github.com/WowFinder/public-assets.git#commit=98ec933149325e1ee3880fd4a72f5e15da33603b"
+  checksum: 10c0/0c1cb3bd3528ca88ead86464a88531e2a4e18d4969d2608aeaa9c6ff3fc104623a8ff3dfd78c9a16100bf32e0321b94e0a014dcf0079544d54c60d57656fa318
   languageName: node
   linkType: hard
 
